@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aayushassociates.com	TRUE	/food-social2/	FALSE	1999999999	_delicious_recipes_session	070b504e943fe158712640e106323258%7C%7C1697704687%7C%7C1697704327
+aayushassociates.com	TRUE	/	FALSE	1999999999	PHPSESSID	6c810b61dab2289cff0dcb06636359ac
+
